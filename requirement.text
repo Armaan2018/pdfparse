@@ -1,6 +1,5 @@
-fastapi
-uvicorn
+Flask
 pymupdf
 pdfplumber
 pytesseract
-pillow
+Pillow
